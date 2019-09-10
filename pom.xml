@@ -17,7 +17,7 @@
     <h2.version>1.4.180</h2.version>
     <slf4j.version>1.7.5</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
-    <activiti.version>5.18.0</activiti.version>
+    <activiti.version>5.22.0</activiti.version>
     <spring.version>4.1.7.RELEASE</spring.version>
     <java.version>1.6</java.version>
   </properties>
